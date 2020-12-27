@@ -20,7 +20,7 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://alexcld.com/ -o alexcld.com.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://www.hack-gov.com.cn/ -o www.hack-gov.com.cn.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://zfe.one/ -o zfe.one.jpg
-        curl https://image.thum.io/get/width/1024/crop/768/https://www.maxin-blog/ -o www.maxin-blog.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://www.maxin-blog.com/ -o www.maxin-blog.com.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://akilar.top/ -o akilar.top.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://www.iftiger.com/ -o www.iftiger.com.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.imzjw.cn/ -o blog.imzjw.cn.jpg

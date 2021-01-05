@@ -34,6 +34,9 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.windandleaf.xyz/ -o blog.windandleaf.xyz.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://ciraos.top/ -o ciraos.top.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://wtnl.xyz/ -o wtnl.xyz.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://blog.molipre.com/ -o blog.molipre.com.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://keepdai.cn/ -o keepdai.cn.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://aabbj.com/ -o aabbj.com.jpg
         curl https://purge.jsdelivr.net/gh/ql-isaac/ScreenShot@gh-pages/*.*
         
     - name: Deploy

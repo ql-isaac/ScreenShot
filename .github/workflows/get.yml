@@ -39,6 +39,8 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://aabbj.com/ -o aabbj.com.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://zykj.js.org/ -o zykj.js.org.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://jiazhibo.top/ -o jiazhibo.top.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://ogliu.com/ -o ogliu.com.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://bili33.top/ -o bili33.top.jpg
         curl https://purge.jsdelivr.net/gh/ql-isaac/ScreenShot@gh-pages/*.*
         
     - name: Deploy

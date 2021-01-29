@@ -29,7 +29,7 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://wr0926.ml/ -o wr0926.ml.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://weilining.cf/ -o weilining.cf.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.ccknbc.cc/ -o blog.ccknbc.cc.jpg
-        curl https://image.thum.io/get/width/1024/crop/768/https://ql-isaac.cn/ -o ql-isaac.cn.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://blogs.ql-isaac.cn/ -o blogs.ql-isaac.cn.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://hexo.io/zh-cn/ -o hexo.io.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.windandleaf.xyz/ -o blog.windandleaf.xyz.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://ciraos.top/ -o ciraos.top.jpg
@@ -42,6 +42,8 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://ogliu.com/ -o ogliu.com.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://bili33.top/ -o bili33.top.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://ethant.top/ -o ethant.top.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://blog.slqwq.cn/ -o blog.slqwq.cn.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://qcyblm.gitee.io/ -o qcyblm.gitee.io.jpg
         curl https://purge.jsdelivr.net/gh/ql-isaac/ScreenShot@gh-pages/*.*
         
     - name: Deploy

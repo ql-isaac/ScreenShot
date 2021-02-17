@@ -28,7 +28,6 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://www.lete114.top/ -o www.lete114.top.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://wr0926.ml/ -o wr0926.ml.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://weilining.cf/ -o weilining.cf.jpg
-        curl https://image.thum.io/get/width/1024/crop/768/https://blog.ccknbc.cc/ -o blog.ccknbc.cc.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://blogs.ql-isaac.cn/ -o blogs.ql-isaac.cn.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://hexo.io/zh-cn/ -o hexo.io.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.windandleaf.xyz/ -o blog.windandleaf.xyz.jpg

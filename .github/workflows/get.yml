@@ -49,6 +49,7 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://jiushiboy.top/ -o jiushiboy.top.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.jannns.com/ -o blog.jannns.com.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://sianx.com/ -o sianx.com.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://ccs.zone/ -o ccs.zone.jpg
         curl https://purge.jsdelivr.net/gh/ql-isaac/ScreenShot@gh-pages/*.*
         
     - name: Deploy

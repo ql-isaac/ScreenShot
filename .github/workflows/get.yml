@@ -45,6 +45,8 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://qcyblm.gitee.io/ -o qcyblm.gitee.io.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.ccknbc.cc/ -o blog.ccknbc.cc.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://www.wo-ow.cn/ -o www.wo-ow.cn.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://jiushiboy.top/ -o jiushiboy.top.jpg
+        curl https://image.thum.io/get/width/1024/crop/768/https://blog.jannns.com/ -o blog.jannns.com.jpg
         curl https://purge.jsdelivr.net/gh/ql-isaac/ScreenShot@gh-pages/*.*
         
     - name: Deploy
